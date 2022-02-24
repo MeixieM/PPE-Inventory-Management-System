@@ -1,0 +1,142 @@
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.exe.config
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.exe
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.pdb
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Resources.resources
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.CopyComplete
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.exe
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.pdb
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Guna.UI.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Login.resources
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Loading.resources
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.MainForm.resources
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Dashboard.resources
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Category.resources
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Renci.SshNet.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.AddNewProd.resources
+C:\Users\User\source\repos\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.ProductForm.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.exe.config
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.exe
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.pdb
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Guna.UI.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Renci.SshNet.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.AddNewProd.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.MainForm.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Loading.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Login.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Resources.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.ProductForm.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.CopyComplete
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.exe
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.xml
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.pdb
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.DashboardForm.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.AddNewCat.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.InventoryForm.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.CategoryForm.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.SupplierForm.resources
+C:\Users\User\source\repos\BackUp 1\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.AddNewSup.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.exe.config
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.exe
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.pdb
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\PPE Inventory Management System.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Renci.SshNet.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Zstandard.Net.dll
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\Renci.SshNet.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.AddNewCat.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.AddNewProd.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.MainForm.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Loading.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Login.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.Resources.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.AddNewSup.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.CategoryForm.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.DashboardForm.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.InventoryForm.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.ProductForm.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE_Inventory_Management_System.SupplierForm.resources
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.vbproj.CopyComplete
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.exe
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.xml
+C:\Users\User\Desktop\PPE Inventory Management System\PPE Inventory Management System\obj\Debug\PPE Inventory Management System.pdb
